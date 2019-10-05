@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*(Christopher Green) 
+ * (RotateCameraX.cs) 
+ * (Assignment 6) 
+ * (This script handles the rotation of the camera in the game.) 
+ */
+
 public class RotateCameraX : MonoBehaviour
 {
     private float speed = 200;

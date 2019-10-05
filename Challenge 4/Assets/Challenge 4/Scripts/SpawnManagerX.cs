@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*(Christopher Green) 
+ * (SpawnManagerX.cs) 
+ * (Assignment 6) 
+ * (This script handles the spawning of enemies in the game.) 
+ */
+
 public class SpawnManagerX : MonoBehaviour
 {
     public GameObject enemyPrefab;

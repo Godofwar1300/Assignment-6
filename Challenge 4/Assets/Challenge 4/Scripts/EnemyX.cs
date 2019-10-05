@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*(Christopher Green) 
+ * (EnemyX.cs) 
+ * (Assignment 6) 
+ * (This script handles the enemy movement and behaviors in the game.) 
+ */
+
 public class EnemyX : MonoBehaviour
 {
     public float speed;

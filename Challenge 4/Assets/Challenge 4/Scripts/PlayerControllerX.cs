@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*(Christopher Green) 
+ * (CharacterControllerX.cs) 
+ * (Assignment 6) 
+ * (This script handles the movement and behaviors of the character in the game.) 
+ */
+
 public class PlayerControllerX : MonoBehaviour
 {
     private Rigidbody playerRb;
